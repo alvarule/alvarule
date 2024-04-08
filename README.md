@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/alvarule/alvarule/blob/main/wave.gif" width ="10%">, I'm Atharva Varule</h1>
+<h1 align="center">Hi <img src="https://github.com/alvarule/alvarule/blob/main/wave.gif" width ="5%">, I'm Atharva Varule</h1>
 
 <div style="width: 100%; max-width: 1000px; margin: 0 auto;">
   <a href="https://git.io/typing-svg">
