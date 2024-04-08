@@ -43,12 +43,6 @@
     </thead>
     <tbody>
         <tr>
-            <td>C++</td>
-            <td>&#10003;</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
             <td>Java</td>
             <td></td>
             <td></td>
@@ -58,6 +52,12 @@
             <td>Python</td>
             <td></td>
             <td>&#10003;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>C++</td>
+            <td>&#10003;</td>
+            <td></td>
             <td></td>
         </tr>
         <tr>
