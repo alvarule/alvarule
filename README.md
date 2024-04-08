@@ -32,7 +32,7 @@
 
 <!-- Programming Languages -->
 - **Languages**:
-<p align="center">
+<p align="left">
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-steelblue?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-midnightblue?style=for-the-badge&logo=python&logoColor=white"></a>
@@ -42,7 +42,7 @@
 
 <!-- Frameworks -->
 - **Frameworks**:
-<p align="center">
+<p align="left">
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white"></a>
     <a href="#"><img alt="Springboot" src="https://img.shields.io/badge/springboot-olivedrab?style=for-the-badge&logo=springboot&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/html5-chocolate?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -52,14 +52,14 @@
 
 <!-- Technologies -->
 - **Technologies**:
-<p align="center">
+<p align="left">
     <a href="#"><img alt="Cloud Computing" src="https://img.shields.io/badge/cloud%20computing-teal?style=for-the-badge&logoColor=white"></a>
     <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20azure-dodgerblue?style=for-the-badge&logo=microsoft%20azure&logoColor=white"></a>
 </p>
 
 <!-- IDE -->
 - **IDE**:
-<p align="center">
+<p align="left">
     <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-steelblue?style=for-the-badge&logo=Visual%20studio%20code&logoColor=white"></a>
     <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/Intellij%20idea-white?style=for-the-badge&logo=intellij%20idea&logoColor=black"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-yellowgreen?style=for-the-badge&logo=android%20studio&logoColor=white"></a>
@@ -68,14 +68,14 @@
 
 <!-- Databases -->
 - **Database**:
-<p align="center">
+<p align="left">
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql"></a>
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/Mongodb-green?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 </p>
 
 <!-- Tools -->
 - **Tools**:
-<p align="center">
+<p align="left">
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git"></a>
