@@ -6,4 +6,12 @@
   </a>
 </div>
 
+<h2 align="center"><img src="https://github.com/alvarule/alvarule/blob/main/about_me.gif" width ="3%"> About Me </h2>
+
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills </h2>
+
+<h2><div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Zebztgv7jmkoLe1DoY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/rocrijnijssel-computer-coding-html-Zebztgv7jmkoLe1DoY">My Projects</a></p></h2>
+
+<h2 align="center"><img src="https://github.com/alvarule/alvarule/blob/main/handshake.gif" width ="3%"> Let's Connect </h2>
+
+
