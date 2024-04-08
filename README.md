@@ -30,94 +30,92 @@
 <br>
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="5%">&emsp; My Skills </h2>
 
+<div style="display: flex;">
 
-<table>
-  <tr>
-    <td>
-      <picture> <img align="right" src="https://github.com/alvarule/alvarule/blob/main/images/skills_side.gif" width=250px></picture>
-    </td>
-    <td>
-      <table width=250px>
-          <thead>
-              <tr>
-                  <th>Technologies</th>
-                  <th>Novice</th>
-                  <th>Intermediate</th>
-                  <th>Expert</th>
-              </tr>
-          </thead>
-          <tbody>
-              <tr>
-                  <td>C++</td>
-                  <td>&#10003;</td>
-                  <td></td>
-                  <td></td>
-              </tr>
-              <tr>
-                  <td>Java</td>
-                  <td></td>
-                  <td></td>
-                  <td>&#10003;</td>
-              </tr>
-              <tr>
-                  <td>Python</td>
-                  <td></td>
-                  <td>&#10003;</td>
-                  <td></td>
-              </tr>
-              <tr>
-                  <td>Flutter</td>
-                  <td></td>
-                  <td></td>
-                  <td>&#10003;</td>
-              </tr>
-              <tr>
-                  <td>Springboot</td>
-                  <td></td>
-                  <td></td>
-                  <td>&#10003;</td>
-              </tr>
-              <tr>
-                  <td>HTML/CSS</td>
-                  <td></td>
-                  <td>&#10003;</td>
-                  <td></td>
-              </tr>
-              <tr>
-                  <td>Bootstrap</td>
-                  <td></td>
-                  <td>&#10003;</td>
-                  <td></td>
-              </tr>
-              <tr>
-                  <td>PHP</td>
-                  <td></td>
-                  <td>&#10003;</td>
-                  <td></td>
-              </tr>
-              <tr>
-                  <td>Microsoft Azure</td>
-                  <td></td>
-                  <td>&#10003;</td>
-                  <td></td>
-              </tr>
-              <tr>
-                  <td>MySQL</td>
-                  <td></td>
-                  <td>&#10003;</td>
-                  <td></td>
-              </tr>
-              <tr>
-                  <td>MongoDB</td>
-                  <td>&#10003;</td>
-                  <td></td>
-                  <td></td>
-              </tr>
-          </tbody>
-      </table>
-    </td>
-  </tr>
+<div style="flex: 1;">
+<picture> <img align="right" src="https://github.com/alvarule/alvarule/blob/main/images/skills_side.gif" width=250px></picture>
+</div>
+
+<div style="flex: 1;">
+<table width=250px>
+    <thead>
+        <tr>
+            <th>Technologies</th>
+            <th>Novice</th>
+            <th>Intermediate</th>
+            <th>Expert</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>C++</td>
+            <td>&#10003;</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Java</td>
+            <td></td>
+            <td></td>
+            <td>&#10003;</td>
+        </tr>
+        <tr>
+            <td>Python</td>
+            <td></td>
+            <td>&#10003;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Flutter</td>
+            <td></td>
+            <td></td>
+            <td>&#10003;</td>
+        </tr>
+        <tr>
+            <td>Springboot</td>
+            <td></td>
+            <td></td>
+            <td>&#10003;</td>
+        </tr>
+        <tr>
+            <td>HTML/CSS</td>
+            <td></td>
+            <td>&#10003;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Bootstrap</td>
+            <td></td>
+            <td>&#10003;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>PHP</td>
+            <td></td>
+            <td>&#10003;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Microsoft Azure</td>
+            <td></td>
+            <td>&#10003;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>MySQL</td>
+            <td></td>
+            <td>&#10003;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>MongoDB</td>
+            <td>&#10003;</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
 </table>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
