@@ -30,13 +30,8 @@
 <br>
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="5%">&emsp; My Skills </h2>
 
-<div style="display: flex;">
-
-<div style="flex: 1;">
 <picture> <img align="right" src="https://github.com/alvarule/alvarule/blob/main/images/skills_side.gif" width=250px></picture>
-</div>
 
-<div style="flex: 1;">
 <table width=250px>
     <thead>
         <tr>
@@ -115,7 +110,6 @@
         </tr>
     </tbody>
 </table>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
