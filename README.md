@@ -30,6 +30,92 @@
 <br>
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="5%">&emsp; My Skills </h2>
 
+<table style="width:100%;">
+    <thead>
+        <tr>
+            <th>Technologies</th>
+            <th>Novice</th>
+            <th>Intermediate</th>
+            <th>Expert</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>C++</td>
+            <td>&#10003;</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Java</td>
+            <td></td>
+            <td></td>
+            <td>&#10003;</td>
+        </tr>
+        <tr>
+            <td>Python</td>
+            <td></td>
+            <td>&#10003;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Flutter</td>
+            <td></td>
+            <td></td>
+            <td>&#10003;</td>
+        </tr>
+        <tr>
+            <td>Springboot</td>
+            <td></td>
+            <td></td>
+            <td>&#10003;</td>
+        </tr>
+        <tr>
+            <td>HTML/CSS</td>
+            <td></td>
+            <td>&#10003;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Bootstrap</td>
+            <td></td>
+            <td>&#10003;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>PHP</td>
+            <td></td>
+            <td>&#10003;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Microsoft Azure</td>
+            <td></td>
+            <td>&#10003;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>MySQL</td>
+            <td></td>
+            <td>&#10003;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>MongoDB</td>
+            <td>&#10003;</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<!-- Tech Stack Section -->
+<br>
+<h2 align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFsOXI1a3ZnZG5tMnU4YTB6dzI1bTd2MDNtcmFmdGp2MHhjeXZ2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VdoIFLsMIlwzfKD520/giphy.gif" width ="5%">&emsp; Tech Stack </h2>
+
   <!-- Programming Languages -->
   - **Languages**:
   <p align="left">
@@ -50,12 +136,6 @@
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-darkslateblue?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
   </p>
 
-  <!-- Technologies -->
-  - **Technologies**:
-  <p align="left">
-      <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20azure-dodgerblue?style=for-the-badge&logo=microsoft%20azure&logoColor=white"></a>
-  </p>
-
   <!-- Databases -->
   - **Database**:
   <p align="left">
@@ -63,17 +143,20 @@
       <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/Mongodb-green?style=for-the-badge&logo=mongodb&logoColor=white"></a>
   </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<!-- Tech Stack Section -->
-<br>
-<h2 align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFsOXI1a3ZnZG5tMnU4YTB6dzI1bTd2MDNtcmFmdGp2MHhjeXZ2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VdoIFLsMIlwzfKD520/giphy.gif" width ="5%">&emsp; Tech Stack </h2>
-
   <!-- Technologies -->
   - **Technologies**:
   <p align="left">
       <a href="#"><img alt="Cloud Computing" src="https://img.shields.io/badge/cloud%20computing-teal?style=for-the-badge&logoColor=white"></a>
+      <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20azure-dodgerblue?style=for-the-badge&logo=microsoft%20azure&logoColor=white"></a>
+  </p>
+
+  <!-- IDE -->
+  - **IDE**:
+  <p align="left">
+      <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-steelblue?style=for-the-badge&logo=Visual%20studio%20code&logoColor=white"></a>
+      <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/Intellij%20idea-white?style=for-the-badge&logo=intellij%20idea&logoColor=black"></a>
+      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-yellowgreen?style=for-the-badge&logo=android%20studio&logoColor=white"></a>
+      <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-white?style=for-the-badge&logo=pycharm"></a>
   </p>
 
   <!-- Tools -->
@@ -85,15 +168,6 @@
       <a href="#"><img alt="Virtual Box" src="https://img.shields.io/badge/virtualbox-navy?style=for-the-badge&logo=virtualbox"></a>
       <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma"></a>
       <a href="#"><img alt="Linux" src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white"></a>
-  </p>
-
-  <!-- IDE -->
-  - **IDE**:
-  <p align="left">
-      <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-steelblue?style=for-the-badge&logo=Visual%20studio%20code&logoColor=white"></a>
-      <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/Intellij%20idea-white?style=for-the-badge&logo=intellij%20idea&logoColor=black"></a>
-      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-yellowgreen?style=for-the-badge&logo=android%20studio&logoColor=white"></a>
-      <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-white?style=for-the-badge&logo=pycharm"></a>
   </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
