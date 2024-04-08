@@ -47,7 +47,7 @@
 <h2 align="center"><img src="https://github.com/alvarule/alvarule/blob/main/images/handshake.gif" width ="10%"> Let's Connect </h2>
 
 <a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/twitter-blue/alvarule?style=for-the-badge" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=%2323667b&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falvarule%2F" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 
 
