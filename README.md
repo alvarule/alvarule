@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/alvarule/alvarule/blob/main/handshake.gif" width ="3%">, I'm Atharva Varule</h1>
+<h1 align="center">Hi <img src="https://github.com/alvarule/alvarule/blob/main/wave.gif" width ="10%">, I'm Atharva Varule</h1>
 
 <div style="width: 100%; max-width: 1000px; margin: 0 auto;">
   <a href="https://git.io/typing-svg">
@@ -6,10 +6,11 @@
   </a>
 </div>
 
-<h2 align="center"><img src="https://github.com/alvarule/alvarule/blob/main/about_me.gif" width ="3%"> About Me </h2>
+<h2 align="center"><img src="https://github.com/alvarule/alvarule/blob/main/about_me.gif" width ="5%"> About Me </h2>
 
-<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills </h2>
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="5%"> My Skills </h2>
 
-<h2 align="center"><img src="https://github.com/alvarule/alvarule/blob/main/handshake.gif" width ="3%"> Let's Connect </h2>
+
+<h2 align="center"><img src="https://github.com/alvarule/alvarule/blob/main/handshake.gif" width ="10%"> Let's Connect </h2>
 
 
