@@ -32,68 +32,25 @@
 
 <!-- Programming Languages -->
 - **Languages**:
-  <p align="left">
-      <div style="display: flex; align-items: center;">
-          <div style="width: 100px; text-align: right; margin-right: 10px;">C++:</div>
-          <div style="flex-grow: 1;">
-              <progress value="70" max="100"></progress>
-          </div>
-      </div>
-      <div style="display: flex; align-items: center;">
-          <div style="width: 100px; text-align: right; margin-right: 10px;">Java:</div>
-          <div style="flex-grow: 1;">
-              <progress value="90" max="100"></progress>
-          </div>
-      </div>
-      <!-- Add progress bars for other languages here -->
-  </p>
+  - C++: ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░ 70%
+  - Java: ██████████████████████████████████ 90%
+  <!-- Add progress bars for other languages here -->
 
 <!-- Frameworks -->
 - **Frameworks**:
-  <p align="left">
-      <div style="display: flex; align-items: center;">
-          <div style="width: 100px; text-align: right; margin-right: 10px;">Flutter:</div>
-          <div style="flex-grow: 1;">
-              <progress value="80" max="100"></progress>
-          </div>
-      </div>
-      <div style="display: flex; align-items: center;">
-          <div style="width: 100px; text-align: right; margin-right: 10px;">Springboot:</div>
-          <div style="flex-grow: 1;">
-              <progress value="75" max="100"></progress>
-          </div>
-      </div>
-      <!-- Add progress bars for other frameworks here -->
-  </p>
+  - Flutter: ████████████░░░░░░░░░░░░░░░░░░░ 80%
+  - Springboot: ██████████░░░░░░░░░░░░░░░░░░ 75%
+  <!-- Add progress bars for other frameworks here -->
 
 <!-- Technologies -->
 - **Technologies**:
-  <p align="left">
-      <div style="display: flex; align-items: center;">
-          <div style="width: 100px; text-align: right; margin-right: 10px;">Microsoft Azure:</div>
-          <div style="flex-grow: 1;">
-              <progress value="85" max="100"></progress>
-          </div>
-      </div>
-  </p>
+  - Microsoft Azure: ████████████████████░░░░░░ 85%
 
 <!-- Databases -->
 - **Database**:
-  <p align="left">
-      <div style="display: flex; align-items: center;">
-          <div style="width: 100px; text-align: right; margin-right: 10px;">MySQL:</div>
-          <div style="flex-grow: 1;">
-              <progress value="95" max="100"></progress>
-          </div>
-      </div>
-      <div style="display: flex; align-items: center;">
-          <div style="width: 100px; text-align: right; margin-right: 10px;">MongoDB:</div>
-          <div style="flex-grow: 1;">
-              <progress value="85" max="100"></progress>
-          </div>
-      </div>
-      <!-- Add progress bars for other databases here -->
-  </p>
+  - MySQL: █████████████████████████████████ 95%
+  - MongoDB: ██████████████████████████████ 85%
+  <!-- Add progress bars for other databases here -->
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
