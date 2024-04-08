@@ -32,7 +32,7 @@
 
 <picture> <img align="right" src="https://github.com/alvarule/alvarule/blob/main/images/skills_side.gif" width=250px></picture>
 
-<table>
+<table width=250px>
     <thead>
         <tr>
             <th>Technologies</th>
