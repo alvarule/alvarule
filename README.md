@@ -53,17 +53,7 @@
   <!-- Technologies -->
   - **Technologies**:
   <p align="left">
-      <a href="#"><img alt="Cloud Computing" src="https://img.shields.io/badge/cloud%20computing-teal?style=for-the-badge&logoColor=white"></a>
       <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20azure-dodgerblue?style=for-the-badge&logo=microsoft%20azure&logoColor=white"></a>
-  </p>
-
-  <!-- IDE -->
-  - **IDE**:
-  <p align="left">
-      <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-steelblue?style=for-the-badge&logo=Visual%20studio%20code&logoColor=white"></a>
-      <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/Intellij%20idea-white?style=for-the-badge&logo=intellij%20idea&logoColor=black"></a>
-      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-yellowgreen?style=for-the-badge&logo=android%20studio&logoColor=white"></a>
-      <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-white?style=for-the-badge&logo=pycharm"></a>
   </p>
 
   <!-- Databases -->
@@ -71,6 +61,19 @@
   <p align="left">
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql"></a>
       <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/Mongodb-green?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+  </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<!-- Tech Stack Section -->
+<br>
+<h2 align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFsOXI1a3ZnZG5tMnU4YTB6dzI1bTd2MDNtcmFmdGp2MHhjeXZ2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VdoIFLsMIlwzfKD520/giphy.gif" width ="5%">&emsp; Tech Stack </h2>
+
+  <!-- Technologies -->
+  - **Technologies**:
+  <p align="left">
+      <a href="#"><img alt="Cloud Computing" src="https://img.shields.io/badge/cloud%20computing-teal?style=for-the-badge&logoColor=white"></a>
   </p>
 
   <!-- Tools -->
@@ -84,12 +87,14 @@
       <a href="#"><img alt="Linux" src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white"></a>
   </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<!-- Tech Stack Section -->
-<br>
-<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="5%">&emsp; Tech Stack </h2>
+  <!-- IDE -->
+  - **IDE**:
+  <p align="left">
+      <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-steelblue?style=for-the-badge&logo=Visual%20studio%20code&logoColor=white"></a>
+      <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/Intellij%20idea-white?style=for-the-badge&logo=intellij%20idea&logoColor=black"></a>
+      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-yellowgreen?style=for-the-badge&logo=android%20studio&logoColor=white"></a>
+      <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-white?style=for-the-badge&logo=pycharm"></a>
+  </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
