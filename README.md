@@ -32,68 +32,69 @@
 
 <!-- Programming Languages -->
 - **Languages**:
-<p align="left">
-    <div style="display: flex; align-items: center;">
-        <div style="width: 100px; text-align: right; margin-right: 10px;">C++:</div>
-        <div style="flex-grow: 1;">
-            <progress value="70" max="100"></progress>
-        </div>
-    </div>
-    <div style="display: flex; align-items: center;">
-        <div style="width: 100px; text-align: right; margin-right: 10px;">Java:</div>
-        <div style="flex-grow: 1;">
-            <progress value="90" max="100"></progress>
-        </div>
-    </div>
-    <!-- Add progress bars for other languages here -->
-</p>
+  <p align="left">
+      <div style="display: flex; align-items: center;">
+          <div style="width: 100px; text-align: right; margin-right: 10px;">C++:</div>
+          <div style="flex-grow: 1;">
+              <progress value="70" max="100"></progress>
+          </div>
+      </div>
+      <div style="display: flex; align-items: center;">
+          <div style="width: 100px; text-align: right; margin-right: 10px;">Java:</div>
+          <div style="flex-grow: 1;">
+              <progress value="90" max="100"></progress>
+          </div>
+      </div>
+      <!-- Add progress bars for other languages here -->
+  </p>
 
 <!-- Frameworks -->
 - **Frameworks**:
-<p align="left">
-    <div style="display: flex; align-items: center;">
-        <div style="width: 100px; text-align: right; margin-right: 10px;">Flutter:</div>
-        <div style="flex-grow: 1;">
-            <progress value="80" max="100"></progress>
-        </div>
-    </div>
-    <div style="display: flex; align-items: center;">
-        <div style="width: 100px; text-align: right; margin-right: 10px;">Springboot:</div>
-        <div style="flex-grow: 1;">
-            <progress value="75" max="100"></progress>
-        </div>
-    </div>
-    <!-- Add progress bars for other frameworks here -->
-</p>
+  <p align="left">
+      <div style="display: flex; align-items: center;">
+          <div style="width: 100px; text-align: right; margin-right: 10px;">Flutter:</div>
+          <div style="flex-grow: 1;">
+              <progress value="80" max="100"></progress>
+          </div>
+      </div>
+      <div style="display: flex; align-items: center;">
+          <div style="width: 100px; text-align: right; margin-right: 10px;">Springboot:</div>
+          <div style="flex-grow: 1;">
+              <progress value="75" max="100"></progress>
+          </div>
+      </div>
+      <!-- Add progress bars for other frameworks here -->
+  </p>
 
 <!-- Technologies -->
 - **Technologies**:
-<p align="left">
-    <div style="display: flex; align-items: center;">
-        <div style="width: 100px; text-align: right; margin-right: 10px;">Microsoft Azure:</div>
-        <div style="flex-grow: 1;">
-            <progress value="85" max="100"></progress>
-        </div>
-    </div>
-</p>
+  <p align="left">
+      <div style="display: flex; align-items: center;">
+          <div style="width: 100px; text-align: right; margin-right: 10px;">Microsoft Azure:</div>
+          <div style="flex-grow: 1;">
+              <progress value="85" max="100"></progress>
+          </div>
+      </div>
+  </p>
 
 <!-- Databases -->
 - **Database**:
-<p align="left">
-    <div style="display: flex; align-items: center;">
-        <div style="width: 100px; text-align: right; margin-right: 10px;">MySQL:</div>
-        <div style="flex-grow: 1;">
-            <progress value="95" max="100"></progress>
-        </div>
-    </div>
-    <div style="display: flex; align-items: center;">
-        <div style="width: 100px; text-align: right; margin-right: 10px;">MongoDB:</div>
-        <div style="flex-grow: 1;">
-            <progress value="85" max="100"></progress>
-        </div>
-    </div>
-    <!-- Add progress bars for other databases here -->
-</p>
+  <p align="left">
+      <div style="display: flex; align-items: center;">
+          <div style="width: 100px; text-align: right; margin-right: 10px;">MySQL:</div>
+          <div style="flex-grow: 1;">
+              <progress value="95" max="100"></progress>
+          </div>
+      </div>
+      <div style="display: flex; align-items: center;">
+          <div style="width: 100px; text-align: right; margin-right: 10px;">MongoDB:</div>
+          <div style="flex-grow: 1;">
+              <progress value="85" max="100"></progress>
+          </div>
+      </div>
+      <!-- Add progress bars for other databases here -->
+  </p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
