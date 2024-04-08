@@ -8,40 +8,34 @@
   </a>
 </div>
 
-
+<!-- About Section -->
+<br>
 <h2 align="center"><img src="https://github.com/alvarule/alvarule/blob/main/images/about_me.gif" width ="5%"> About Me </h2>
 
-- 🎓 `Computer Engineering Student:`
-  - Currently pursuing a degree in `Computer Engineering`, gaining insights into `software development`, `algorithms`, and `computer architecture`.
+- 🎓 Currently pursuing a degree in `Computer Engineering`
+- 💻 Proficient in `coding` and developing `software applications`
+- 🚀 Experienced in developing `mobile applications` in `Flutter` and robust `backend systems` in `Spring Boot`
+- 🌐 Earned `Microsoft Azure Fundamentals Certification`, demonstrating knowledge and skills in `cloud computing` fundamentals
+- 💡 Skilled in `Java` and `Python` programming languages
+- 🌍 Enthusiastic about `traveling`, exploring new places, and experiencing diverse cultures
+- 📚 An avid `reader`
+- ♟️ Passionate about `chess`, engaging in strategic thinking and the competitive spirit of the game
 
-- 💻 `Intermediate Developer:`
-  - Proficient in `coding` and developing `software applications`, with a focus on creating `efficient` and `scalable solutions`.
 
-- 🚀 `Skills in Flutter and Spring Boot:`
-  - Experienced in developing `mobile applications` using `Flutter` and building robust backend systems with `Spring Boot`.
-
-- 🌐 `Microsoft Azure Fundamentals Certified:`
-  - Earned the `Microsoft Azure Fundamentals certification`, demonstrating knowledge and skills in `cloud computing` fundamentals.
-
-- 💡 `Programming Languages:`
-  - Skilled in `Python` and `Java`, adept at writing `clean` and `optimized code` for various projects and applications.
-
-- 🌍 `Passion for Traveling:`
-  - Enthusiastic about exploring new places, experiencing diverse cultures, and embracing adventures that broaden perspectives.
-
-- 📚 `Love for Reading:`
-  - Avid reader who enjoys exploring a wide range of genres, gaining knowledge, and finding inspiration in `literature`.
-
-- ♟️ `Chess Enthusiast:`
-  - Passionate about playing `chess`, engaging in `strategic thinking`, and enjoying the `competitive spirit` of the game.
-
+<!-- Skills Section -->
+<br>
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="5%"> My Skills </h2>
 
 - **Languages**:
 
 
+<!-- Projects Section -->
+<br>
 <h2 align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnE3bjRrajlmaDhveGZqMmR5YnphODN0cHhzaXVubnBmYjVlbXk5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zebztgv7jmkoLe1DoY/giphy.gif" width ="5%"> My Projects</h2>
 
+
+<!-- Let's Connect Section -->
+<br>
 <h2 align="center"><img src="https://github.com/alvarule/alvarule/blob/main/images/handshake.gif" width ="10%"> Let's Connect </h2>
 
 
