@@ -124,6 +124,7 @@
       <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white"></a>
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-midnightblue?style=for-the-badge&logo=python&logoColor=white"></a>
       <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-steelblue?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+      <a href="#"><img alt="Dart" src="https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=teal"></a>
       <a href="#"><img alt="PHP" src="https://img.shields.io/badge/php-lightslategray?style=for-the-badge&logo=php&logoColor=white"></a>
       <a href="#"><img alt="Bash" src="https://img.shields.io/badge/bash-white?style=for-the-badge&logo=gnu%20bash&logoColor=black"></a>
   </p>
