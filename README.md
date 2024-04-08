@@ -1,5 +1,5 @@
 <!-- Name -->
-<h1 align="center">Hi <img src="https://github.com/alvarule/alvarule/blob/main/wave.gif" width ="5%">, I'm Atharva Varule</h1>
+<h1 align="center">Hi <img src="https://github.com/alvarule/alvarule/blob/main/images/wave.gif" width ="5%">, I'm Atharva Varule</h1>
 
 <!-- Typewriter About Me -->
 <div style="width: 100%; max-width: 1000px; margin: 0 auto;">
@@ -9,7 +9,7 @@
 </div>
 
 
-<h2 align="center"><img src="https://github.com/alvarule/alvarule/blob/main/about_me.gif" width ="5%"> About Me </h2>
+<h2 align="center"><img src="https://github.com/alvarule/alvarule/blob/main/images/about_me.gif" width ="5%"> About Me </h2>
 
 ### About Me
 
@@ -44,6 +44,6 @@
 
 <h2 align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnE3bjRrajlmaDhveGZqMmR5YnphODN0cHhzaXVubnBmYjVlbXk5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zebztgv7jmkoLe1DoY/giphy.gif" width ="5%"> My Projects</h2>
 
-<h2 align="center"><img src="https://github.com/alvarule/alvarule/blob/main/handshake.gif" width ="10%"> Let's Connect </h2>
+<h2 align="center"><img src="https://github.com/alvarule/alvarule/blob/main/images/handshake.gif" width ="10%"> Let's Connect </h2>
 
 
