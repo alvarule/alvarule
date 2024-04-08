@@ -48,13 +48,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alvarule/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&labelColor=%2323667b" alt=linkedin style="margin-bottom: 5px;"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
   </a>
-
+  &emsp;
   <a href="https://twitter.com/AtharvaVarule" target="_blank">
   <img src="https://img.shields.io/badge/TWITTER-deepskyblue?style=for-the-badge&logo=twitter&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
   </a>
-
+  &emsp;
   <a href="mailto:athrvarule@gmaail.com" target="_blank">
   <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;"/>
   </a>
