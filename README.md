@@ -46,19 +46,17 @@
 <br>
 <h2 align="center"><img src="https://github.com/alvarule/alvarule/blob/main/images/handshake.gif" width ="10%"> Let's Connect </h2>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(0, 1fr));">
-  <a href="https://www.linkedin.com/in/alvarule/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&labelColor=%2323667b" alt="linkedin" style="margin-bottom: 5px;"/>
-  </a>
-  <a href="https://twitter.com/AtharvaVarule" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-deepskyblue?style=for-the-badge&logo=twitter&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
-  </a>
-  <a href="mailto:athrvarule@gmaail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;"/>
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/alvarule/" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&labelColor=%2323667b" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
 
+<a href="https://twitter.com/AtharvaVarule" target="_blank">
+<img src="https://img.shields.io/badge/TWITTER-deepskyblue?style=for-the-badge&logo=twitter&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
 
+<a href="mailto:athrvarule@gmaail.com" target="_blank">
+<img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;"/>
+</a>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
