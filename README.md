@@ -47,7 +47,15 @@
 <h2 align="center"><img src="https://github.com/alvarule/alvarule/blob/main/images/handshake.gif" width ="10%"> Let's Connect </h2>
 
 <a href="https://www.linkedin.com/in/alvarule/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=%2323667b" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&labelColor=%2323667b" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+
+<a href="https://twitter.com/AtharvaVarule" target="_blank">
+<img src="https://img.shields.io/badge/TWITTER-deepskyblue?style=for-the-badge&logo=twitter&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+
+<a href="mailto:athrvarule@gmaail.com" target="_blank">
+<img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;"/>
 </a>
 
 
