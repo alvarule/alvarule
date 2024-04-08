@@ -188,58 +188,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alvarule/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-  </a>
-  &emsp;
+  <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a>
   <a href="https://twitter.com/AtharvaVarule" target="_blank">
-  <img src="https://img.shields.io/badge/TWITTER-deepskyblue?style=for-the-badge&logo=twitter&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-  </a>
-  &emsp;
+  <img src="https://img.shields.io/badge/TWITTER-deepskyblue?style=for-the-badge&logo=twitter&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a>
   <a href="mailto:athrvarule@gmaail.com" target="_blank">
-  <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;"/>
-  </a>
+  <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<!-- 
-programming languages
-c++ : https://img.shields.io/badge/C%2B%2B-steelblue?style=for-the-badge&logo=c%2B%2B&logoColor=white
-java : https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white
-python : https://img.shields.io/badge/python-midnightblue?style=for-the-badge&logo=python&logoColor=white
-php: https://img.shields.io/badge/php-lightslategray?style=for-the-badge&logo=php&logoColor=white
-Bash: https://img.shields.io/badge/bash-white?style=for-the-badge&logo=gnu%20bash&logoColor=black 
-
-frameworks
-flutter : https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white
-Springboot: https://img.shields.io/badge/springboot-olivedrab?style=for-the-badge&logo=springboot&logoColor=white
-html : https://img.shields.io/badge/html5-chocolate?style=for-the-badge&logo=html5&logoColor=white
-css : https://img.shields.io/badge/css3-royalblue?style=for-the-badge&logo=css3&logoColor=white
-bootstrap : https://img.shields.io/badge/bootstrap-darkslateblue?style=for-the-badge&logo=bootstrap&logoColor=white
-
-skills
-cloud : https://img.shields.io/badge/cloud%20computing-teal?style=for-the-badge&logoColor=white
-
-technologies
-azure : https://img.shields.io/badge/Microsoft%20azure-dodgerblue?style=for-the-badge&logo=microsoft%20azure&logoColor=white
-
-IDE
-vs code : https://img.shields.io/badge/VS%20Code-steelblue?style=for-the-badge&logo=Visual%20studio%20code&logoColor=white
-intellij idea: https://img.shields.io/badge/Intellij%20idea-white?style=for-the-badge&logo=intellij%20idea&logoColor=black
-android studio: https://img.shields.io/badge/android%20studio-yellowgreen?style=for-the-badge&logo=android%20studio&logoColor=white
-pycharm: https://img.shields.io/badge/pycharm-white?style=for-the-badge&logo=pycharm
-
-databases:
-mysql : https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql
-mongodb : https://img.shields.io/badge/Mongodb-green?style=for-the-badge&logo=mongodb&logoColor=white
-
-tools:
-notion: https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion
-github : https://img.shields.io/badge/github-black?style=for-the-badge&logo=github
-git : https://img.shields.io/badge/git-white?style=for-the-badge&logo=git
-virtual box: https://img.shields.io/badge/virtualbox-navy?style=for-the-badge&logo=virtualbox
-figma : https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma
-linux : https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white
-
--->
