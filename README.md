@@ -21,6 +21,7 @@
 - 📚 An avid `reader`
 - ♟️ Passionate about `chess`, engaging in strategic thinking and the competitive spirit of the game
 
+🌟 Open to internship and job opportunities! [View my digital resume](link-to-your-digital-resume)
 
 <!-- Skills Section -->
 <br>
