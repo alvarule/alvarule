@@ -50,15 +50,10 @@
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-darkslateblue?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 </p>
 
-<!-- Skills -->
-- **Skills**:
-<p align="center">
-    <a href="#"><img alt="Cloud Computing" src="https://img.shields.io/badge/cloud%20computing-teal?style=for-the-badge&logoColor=white"></a>
-</p>
-
 <!-- Technologies -->
 - **Technologies**:
 <p align="center">
+    <a href="#"><img alt="Cloud Computing" src="https://img.shields.io/badge/cloud%20computing-teal?style=for-the-badge&logoColor=white"></a>
     <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20azure-dodgerblue?style=for-the-badge&logo=microsoft%20azure&logoColor=white"></a>
 </p>
 
