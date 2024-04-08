@@ -30,6 +30,74 @@
 <br>
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="5%">&emsp; My Skills </h2>
 
+<table>
+    <thead>
+        <tr>
+            <th>Technologies</th>
+            <th>Novice</th>
+            <th>Intermediate</th>
+            <th>Expert</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>C++</td>
+            <td></td>
+            <td></td>
+            <td>&#10003;</td>
+        </tr>
+        <tr>
+            <td>Java</td>
+            <td>&#10003;</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Python</td>
+            <td></td>
+            <td>&#10003;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Flutter</td>
+            <td></td>
+            <td></td>
+            <td>&#10003;</td>
+        </tr>
+        <tr>
+            <td>Springboot</td>
+            <td>&#10003;</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>HTML/CSS</td>
+            <td></td>
+            <td>&#10003;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Microsoft Azure</td>
+            <td></td>
+            <td></td>
+            <td>&#10003;</td>
+        </tr>
+        <tr>
+            <td>MySQL</td>
+            <td>&#10003;</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>MongoDB</td>
+            <td></td>
+            <td>&#10003;</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
 <!-- Programming Languages -->
 - **Languages**:
   - <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-steelblue?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>: ██████████████░░░░░░ 70%
