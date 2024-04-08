@@ -46,7 +46,7 @@
 <br>
 <h2 align="center"><img src="https://github.com/alvarule/alvarule/blob/main/images/handshake.gif" width ="10%"> Let's Connect </h2>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(0, 1fr));">
   <a href="https://www.linkedin.com/in/alvarule/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&labelColor=%2323667b" alt="linkedin" style="margin-bottom: 5px;"/>
   </a>
@@ -57,6 +57,7 @@
     <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;"/>
   </a>
 </div>
+
 
 
 
