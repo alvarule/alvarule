@@ -30,38 +30,70 @@
 <br>
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="5%">&emsp; My Skills </h2>
 
-  <!-- Programming Languages -->
-  - **Languages**:
-  <p align="left">
-      <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-steelblue?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-      <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white"></a>
-      <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-midnightblue?style=for-the-badge&logo=python&logoColor=white"></a>
-      <a href="#"><img alt="PHP" src="https://img.shields.io/badge/php-lightslategray?style=for-the-badge&logo=php&logoColor=white"></a>
-      <a href="#"><img alt="Bash" src="https://img.shields.io/badge/bash-white?style=for-the-badge&logo=gnu%20bash&logoColor=black"></a>
-  </p>
+<!-- Programming Languages -->
+- **Languages**:
+<p align="left">
+    <div style="display: flex; align-items: center;">
+        <div style="width: 100px; text-align: right; margin-right: 10px;">C++:</div>
+        <div style="flex-grow: 1;">
+            <progress value="70" max="100"></progress>
+        </div>
+    </div>
+    <div style="display: flex; align-items: center;">
+        <div style="width: 100px; text-align: right; margin-right: 10px;">Java:</div>
+        <div style="flex-grow: 1;">
+            <progress value="90" max="100"></progress>
+        </div>
+    </div>
+    <!-- Add progress bars for other languages here -->
+</p>
 
-  <!-- Frameworks -->
-  - **Frameworks**:
-  <p align="left">
-      <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white"></a>
-      <a href="#"><img alt="Springboot" src="https://img.shields.io/badge/springboot-olivedrab?style=for-the-badge&logo=springboot&logoColor=white"></a>
-      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/html5-chocolate?style=for-the-badge&logo=html5&logoColor=white"></a>
-      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/css3-royalblue?style=for-the-badge&logo=css3&logoColor=white"></a>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-darkslateblue?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-  </p>
+<!-- Frameworks -->
+- **Frameworks**:
+<p align="left">
+    <div style="display: flex; align-items: center;">
+        <div style="width: 100px; text-align: right; margin-right: 10px;">Flutter:</div>
+        <div style="flex-grow: 1;">
+            <progress value="80" max="100"></progress>
+        </div>
+    </div>
+    <div style="display: flex; align-items: center;">
+        <div style="width: 100px; text-align: right; margin-right: 10px;">Springboot:</div>
+        <div style="flex-grow: 1;">
+            <progress value="75" max="100"></progress>
+        </div>
+    </div>
+    <!-- Add progress bars for other frameworks here -->
+</p>
 
-  <!-- Technologies -->
-  - **Technologies**:
-  <p align="left">
-      <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20azure-dodgerblue?style=for-the-badge&logo=microsoft%20azure&logoColor=white"></a>
-  </p>
+<!-- Technologies -->
+- **Technologies**:
+<p align="left">
+    <div style="display: flex; align-items: center;">
+        <div style="width: 100px; text-align: right; margin-right: 10px;">Microsoft Azure:</div>
+        <div style="flex-grow: 1;">
+            <progress value="85" max="100"></progress>
+        </div>
+    </div>
+</p>
 
-  <!-- Databases -->
-  - **Database**:
-  <p align="left">
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql"></a>
-      <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/Mongodb-green?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-  </p>
+<!-- Databases -->
+- **Database**:
+<p align="left">
+    <div style="display: flex; align-items: center;">
+        <div style="width: 100px; text-align: right; margin-right: 10px;">MySQL:</div>
+        <div style="flex-grow: 1;">
+            <progress value="95" max="100"></progress>
+        </div>
+    </div>
+    <div style="display: flex; align-items: center;">
+        <div style="width: 100px; text-align: right; margin-right: 10px;">MongoDB:</div>
+        <div style="flex-grow: 1;">
+            <progress value="85" max="100"></progress>
+        </div>
+    </div>
+    <!-- Add progress bars for other databases here -->
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
