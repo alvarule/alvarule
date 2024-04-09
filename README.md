@@ -146,12 +146,18 @@
       <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/Mongodb-green?style=for-the-badge&logo=mongodb&logoColor=white"></a>
   </p>
 
-  <!-- Technologies -->
-  - **Technologies**:
+  <!-- Domains -->
+  - **Domains**:
   <p align="left">
+      <a href="#"><img alt="Mobile App Development" src="https://img.shields.io/badge/Mobile%20App%20Development-green?style=for-the-badge&logo=android&logoColor=white"></a>
       <a href="#"><img alt="Cloud Computing" src="https://img.shields.io/badge/cloud%20computing-teal?style=for-the-badge&logoColor=white"></a>
-      <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20azure-dodgerblue?style=for-the-badge&logo=microsoft%20azure&logoColor=white"></a>
+      <a href="#"><img alt="Cyber Security" src="https://img.shields.io/badge/Cyber%20Security-blue?style=for-the-badge"></a>
   </p>
+
+  <!-- Technologies -->
+  <!-- - **Technologies**:
+  <p align="left">
+  </p> -->
 
   <!-- IDE -->
   - **IDE**:
@@ -165,12 +171,18 @@
   <!-- Tools -->
   - **Tools**:
   <p align="left">
+      <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20azure-dodgerblue?style=for-the-badge&logo=microsoft%20azure&logoColor=white"></a>
       <a href="#"><img alt="Notion" src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion"></a>
       <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git"></a>
       <a href="#"><img alt="Virtual Box" src="https://img.shields.io/badge/virtualbox-navy?style=for-the-badge&logo=virtualbox"></a>
       <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma"></a>
       <a href="#"><img alt="Linux" src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white"></a>
+      <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-black?style=for-the-badge&logo=kali%20linux&logoColor=white"></a>
+      <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-deepskyblue?style=for-the-badge&logo=fedora&logoColor=white"></a>
+      <a href="#"><img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-blue?style=for-the-badge&logo=metasploit&logoColor=white"></a>
+      <a href="#"><img alt="Nmap" src="https://img.shields.io/badge/nmap-skyblue?style=for-the-badge"></a>
+      <a href="#"><img alt="Burp Suite" src="https://img.shields.io/badge/burp%20suite-red?style=for-the-badge&logo=burp%20suite&logoColor=white"></a>
   </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
