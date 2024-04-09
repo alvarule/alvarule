@@ -193,15 +193,8 @@
 <h2 align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnE3bjRrajlmaDhveGZqMmR5YnphODN0cHhzaXVubnBmYjVlbXk5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zebztgv7jmkoLe1DoY/giphy.gif" width ="5%">&emsp; My Projects</h2>
 
 - **Stats**:
-
-**Project Statistics**
-
-* **Projects Completed:** 15
-* **Technologies Used:**  
-   * Python (80%)
-   * JavaScript (60%)
-   * React (40%)
-* **Open Source Contributions:** 3
+    * Projects Completed: 3
+    * Ongoing Projects: 2  
 
 - **Top Projects**:
 
