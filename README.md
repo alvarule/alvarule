@@ -196,6 +196,7 @@
     * Projects Completed: 3
     * Ongoing Projects: 2  
 
+
 - **Top Projects**:
 
 [![Personal Progress Tracker](https://github-readme-stats.vercel.app/api/pin/?username=alvarule&repo=personal-progress-tracker&theme=react)](https://github.com/alvarule/personal-progress-tracker)
