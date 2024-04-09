@@ -193,6 +193,14 @@
 <h2 align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnE3bjRrajlmaDhveGZqMmR5YnphODN0cHhzaXVubnBmYjVlbXk5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zebztgv7jmkoLe1DoY/giphy.gif" width ="5%">&emsp; My Projects</h2>
 
 [![Personal Progress Tracker](https://github-readme-stats.vercel.app/api/pin/?username=alvarule&repo=personal-progress-tracker&theme=react)](https://github.com/alvarule/personal-progress-tracker)
+[![Personal Progress Tracker](https://github-readme-stats.vercel.app/api/pin/?username=alvarule&repo=personal-progress-tracker&theme=react)](https://github.com/alvarule/personal-progress-tracker)
+
+<a href="https://github.com/alvarule/personal-progress-tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alvarule&repo=personal-progress-tracker&theme=react" />
+</a>
+<a href="https://github.com/alvarule/personal-progress-tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alvarule&repo=personal-progress-tracker&theme=react" />
+</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
