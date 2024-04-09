@@ -165,7 +165,7 @@
       <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-steelblue?style=for-the-badge&logo=Visual%20studio%20code&logoColor=white"></a>
       <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/Intellij%20idea-white?style=for-the-badge&logo=intellij%20idea&logoColor=black"></a>
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-yellowgreen?style=for-the-badge&logo=android%20studio&logoColor=white"></a>
-      <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-white?style=for-the-badge&logo=pycharm"></a>
+      <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm"></a>
   </p>
 
   <!-- Tools -->
