@@ -194,6 +194,15 @@
 
 - **Stats**:
 
+**Project Statistics**
+
+* **Projects Completed:** 15
+* **Technologies Used:**  
+   * Python (80%)
+   * JavaScript (60%)
+   * React (40%)
+* **Open Source Contributions:** 3
+
 - **Top Projects**:
 
 [![Personal Progress Tracker](https://github-readme-stats.vercel.app/api/pin/?username=alvarule&repo=personal-progress-tracker&theme=react)](https://github.com/alvarule/personal-progress-tracker)
