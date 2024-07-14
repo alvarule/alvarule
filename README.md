@@ -15,7 +15,7 @@
 
 - 🎓 Currently pursuing a degree in `Computer Engineering`
 - 💻 Proficient in `coding` and developing `software applications`
-- 🚀 Experienced in developing `mobile applications` in `Flutter` and robust `backend systems` in `Spring Boot`
+- 🚀 Experienced in developing `mobile applications` in `Flutter`
 - 🌐 Earned `Microsoft Azure Fundamentals Certification`, demonstrating knowledge and skills in `cloud computing` fundamentals
 - 💡 Skilled in `Java` and `Python` programming languages
 - 🌍 Enthusiastic about `traveling`, exploring new places, and experiencing diverse cultures
@@ -142,7 +142,7 @@
   <!-- Backends -->
   - **Backends**:
   <p align="left">
-      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase"></a>
+      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/firebase-orange?style=for-the-badge&logo=firebase"></a>
       <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/supabase-white?style=for-the-badge&logo=supabase"></a>
   </p>
 
