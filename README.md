@@ -133,10 +133,17 @@
   - **Frameworks**:
   <p align="left">
       <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white"></a>
-      <a href="#"><img alt="Springboot" src="https://img.shields.io/badge/springboot-olivedrab?style=for-the-badge&logo=springboot&logoColor=white"></a>
+      <!-- <a href="#"><img alt="Springboot" src="https://img.shields.io/badge/springboot-olivedrab?style=for-the-badge&logo=springboot&logoColor=white"></a> -->
       <a href="#"><img alt="HTML" src="https://img.shields.io/badge/html5-chocolate?style=for-the-badge&logo=html5&logoColor=white"></a>
       <a href="#"><img alt="CSS" src="https://img.shields.io/badge/css3-royalblue?style=for-the-badge&logo=css3&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-darkslateblue?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+  </p>
+
+  <!-- Backends -->
+  - **Backends**:
+  <p align="left">
+      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase"></a>
+      <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/supabase-white?style=for-the-badge&logo=supabase"></a>
   </p>
 
   <!-- Databases -->
@@ -193,15 +200,15 @@
 <h2 align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnE3bjRrajlmaDhveGZqMmR5YnphODN0cHhzaXVubnBmYjVlbXk5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zebztgv7jmkoLe1DoY/giphy.gif" width ="5%">&emsp; My Projects</h2>
 
 - **Stats**:
-    * Projects Completed: 3
-    * Ongoing Projects: 2  
+    * Projects Completed: 2
+    * Ongoing Projects: 1
 
 <br>
 
 - **Top Projects**:
 
-[![Personal Progress Tracker](https://github-readme-stats.vercel.app/api/pin/?username=alvarule&repo=personal-progress-tracker&theme=react)](https://github.com/alvarule/personal-progress-tracker)
-[![Personal Progress Tracker](https://github-readme-stats.vercel.app/api/pin/?username=alvarule&repo=personal-progress-tracker&theme=react)](https://github.com/alvarule/personal-progress-tracker)
+[![Password Manager App - Vaultify](https://github-readme-stats.vercel.app/api/pin/?username=alvarule&repo=vaultify&theme=react)](https://github.com/alvarule/vaultify/)
+[![Todo App using Python](https://github-readme-stats.vercel.app/api/pin/?username=alvarule&repo=personal-progress-tracker&theme=react)](https://github.com/alvarule/personal-progress-tracker)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
