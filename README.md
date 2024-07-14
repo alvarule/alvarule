@@ -37,49 +37,49 @@
         </div>
         <div style="flex: 1;">
             <p>Java</p>
-            ![70%](https://progress-bar.dev/70)
+            <img src="https://progress-bar.dev/70">
         </div>
         <div style="flex: 1;">
             <p>Python</p>
-            ![50%](https://progress-bar.dev/50)
+            <img src="https://progress-bar.dev/50">
         </div>
         <div style="flex: 1;">
             <p>C++</p>
-            ![10%](https://progress-bar.dev/10)
+            <img src="https://progress-bar.dev/10">
         </div>
         <div style="flex: 1;">
             <p>Flutter</p>
-            ![70%](https://progress-bar.dev/70)
+            <img src="https://progress-bar.dev/70">
         </div>
         <div style="flex: 1;">
             <p>Springboot</p>
-            ![70%](https://progress-bar.dev/70)
+            <img src="https://progress-bar.dev/70">
         </div>
         <div style="flex: 1;">
             <p>HTML/CSS</p>
-            ![50%](https://progress-bar.dev/50)
+            <img src="https://progress-bar.dev/50">
         </div>
         <div style="flex: 1;">
             <p>Bootstrap</p>
-            ![50%](https://progress-bar.dev/50)
+            <img src="https://progress-bar.dev/50">
         </div>
         <div style="flex: 1;">
             <p>PHP</p>
-            ![50%](https://progress-bar.dev/50)
+            <img src="https://progress-bar.dev/50">
         </div>
         <div style="flex: 1;">
             <p>Microsoft Azure</p>
-            ![50%](https://progress-bar.dev/50)
+            <img src="https://progress-bar.dev/50">
         </div>
         <div style="flex: 1;">
             <p>MySQL</p>
-            ![50%](https://progress-bar.dev/50)
+            <img src="https://progress-bar.dev/50">
         </div>
         <div style="flex: 1;">
             <p>MongoDB</p>
-            ![10%](https://progress-bar.dev/10)
+            <img src="https://progress-bar.dev/10">
         </div>
-    </div>
+        </div>
     <picture style="flex: 1;">
         <img align="right" src="images/skills_side.gif" width=250px>
     </picture>
