@@ -37,47 +37,47 @@
         </div>
         <div style="flex: 1;">
             <p>Java</p>
-            <progress value="10" max="10"></progress>
+            ![70%](https://progress-bar.dev/70)
         </div>
         <div style="flex: 1;">
             <p>Python</p>
-            <progress value="5" max="10"></progress>
+            ![50%](https://progress-bar.dev/50)
         </div>
         <div style="flex: 1;">
             <p>C++</p>
-            <progress value="1" max="10"></progress>
+            ![10%](https://progress-bar.dev/10)
         </div>
         <div style="flex: 1;">
             <p>Flutter</p>
-            <progress value="10" max="10"></progress>
+            ![70%](https://progress-bar.dev/70)
         </div>
         <div style="flex: 1;">
             <p>Springboot</p>
-            <progress value="10" max="10"></progress>
+            ![70%](https://progress-bar.dev/70)
         </div>
         <div style="flex: 1;">
             <p>HTML/CSS</p>
-            <progress value="5" max="10"></progress>
+            ![50%](https://progress-bar.dev/50)
         </div>
         <div style="flex: 1;">
             <p>Bootstrap</p>
-            <progress value="5" max="10"></progress>
+            ![50%](https://progress-bar.dev/50)
         </div>
         <div style="flex: 1;">
             <p>PHP</p>
-            <progress value="5" max="10"></progress>
+            ![50%](https://progress-bar.dev/50)
         </div>
         <div style="flex: 1;">
             <p>Microsoft Azure</p>
-            <progress value="5" max="10"></progress>
+            ![50%](https://progress-bar.dev/50)
         </div>
         <div style="flex: 1;">
             <p>MySQL</p>
-            <progress value="5" max="10"></progress>
+            ![50%](https://progress-bar.dev/50)
         </div>
         <div style="flex: 1;">
             <p>MongoDB</p>
-            <progress value="1" max="10"></progress>
+            ![10%](https://progress-bar.dev/10)
         </div>
     </div>
     <picture style="flex: 1;">
