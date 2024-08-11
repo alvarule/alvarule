@@ -2,12 +2,14 @@
 <h1 align="center">Hi <img src="https://github.com/alvarule/alvarule/blob/main/images/wave.gif" width ="5%">, I'm Atharva Varule</h1>
 
 <!-- Typewriter About Me -->
+<!--
 <div style="width: 100%; max-width: 1000px; margin: 0 auto;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=20&pause=1000&color=0FAAF7&center=true&vCenter=true&random=false&width=435&lines=Computer+Engineering+Student;Flutter+Developer;Microsoft+Certified:+Azure+Fundamentals;Passionate+Project+Builder;Travel+Enthusiast;Book+Lover;Chess+Player" alt="Typing SVG" style="width: 100%; height: auto;" />
   </a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-->
 
 <!-- About Section -->
 <br>
@@ -17,12 +19,12 @@
 - 💻 Proficient in `coding` and developing `software applications`
 - 🚀 Experienced in developing `mobile applications` in `Flutter`
 - 🌐 Earned `Microsoft Azure Fundamentals Certification`, demonstrating knowledge and skills in `cloud computing` fundamentals
-- 💡 Skilled in `Java` and `Python` programming languages
+- 💡 Skilled in `Python` and `Java` programming languages
 - 🌍 Enthusiastic about `traveling`, exploring new places, and experiencing diverse cultures
 - 📚 An avid `reader`
 - ♟️ Passionate about `chess`, engaging in strategic thinking and the competitive spirit of the game
+- 🌟 Open to internship and job opportunities! [View my digital resume](https://drive.google.com/file/d/1_NGjXeIpt-XNtEd7t-Ee6lbdvIMn39Qh/view?usp=sharing)
 
-<!-- 🌟 Open to internship and job opportunities! [View my digital resume](link-to-your-digital-resume) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -43,13 +45,13 @@
     </thead>
     <tbody>
         <tr>
-            <td>Java</td>
+            <td>Python</td>
             <td></td>
             <td></td>
             <td>&#10003;</td>
         </tr>
         <tr>
-            <td>Python</td>
+            <td>Java</td>
             <td></td>
             <td>&#10003;</td>
             <td></td>
@@ -62,12 +64,6 @@
         </tr>
         <tr>
             <td>Flutter</td>
-            <td></td>
-            <td></td>
-            <td>&#10003;</td>
-        </tr>
-        <tr>
-            <td>Springboot</td>
             <td></td>
             <td></td>
             <td>&#10003;</td>
@@ -104,8 +100,8 @@
         </tr>
         <tr>
             <td>MongoDB</td>
-            <td>&#10003;</td>
             <td></td>
+            <td>&#10003;</td>
             <td></td>
         </tr>
     </tbody>
@@ -121,8 +117,8 @@
   <!-- Programming Languages -->
   - **Languages**:
   <p align="left">
-      <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white"></a>
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-midnightblue?style=for-the-badge&logo=python&logoColor=white"></a>
+      <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white"></a>
       <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-steelblue?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
       <a href="#"><img alt="Dart" src="https://img.shields.io/badge/dart-darkblue?style=for-the-badge&logo=dart&logoColor=white"></a>
       <a href="#"><img alt="PHP" src="https://img.shields.io/badge/php-lightslategray?style=for-the-badge&logo=php&logoColor=white"></a>
@@ -134,9 +130,9 @@
   <p align="left">
       <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white"></a>
       <!-- <a href="#"><img alt="Springboot" src="https://img.shields.io/badge/springboot-olivedrab?style=for-the-badge&logo=springboot&logoColor=white"></a> -->
-      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/html5-chocolate?style=for-the-badge&logo=html5&logoColor=white"></a>
-      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/css3-royalblue?style=for-the-badge&logo=css3&logoColor=white"></a>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-darkslateblue?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+      <!-- <a href="#"><img alt="HTML" src="https://img.shields.io/badge/html5-chocolate?style=for-the-badge&logo=html5&logoColor=white"></a> -->
+      <!-- <a href="#"><img alt="CSS" src="https://img.shields.io/badge/css3-royalblue?style=for-the-badge&logo=css3&logoColor=white"></a> -->
+      <!-- <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-darkslateblue?style=for-the-badge&logo=bootstrap&logoColor=white"></a> -->
   </p>
 
   <!-- Backends -->
@@ -179,11 +175,11 @@
   - **Tools**:
   <p align="left">
       <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20azure-dodgerblue?style=for-the-badge&logo=microsoft%20azure&logoColor=white"></a>
-      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion"></a>
-      <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git"></a>
+      <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github"></a>
       <a href="#"><img alt="Virtual Box" src="https://img.shields.io/badge/virtualbox-navy?style=for-the-badge&logo=virtualbox"></a>
       <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma"></a>
+      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion"></a>
       <a href="#"><img alt="Linux" src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white"></a>
       <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-black?style=for-the-badge&logo=kali%20linux&logoColor=white"></a>
       <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-deepskyblue?style=for-the-badge&logo=fedora&logoColor=white"></a>
