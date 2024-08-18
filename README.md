@@ -89,14 +89,6 @@
 <br>
 <h2 align="center">My Projects 🌟🎯</h2>
 
-- **Stats**:
-    * Projects Completed: 2
-    * Ongoing Projects: 1
-
-<br>
-
-- **Top Projects**:
-
 [![Password Manager App - Vaultify](https://github-readme-stats.vercel.app/api/pin/?username=alvarule&repo=vaultify&theme=react)](https://github.com/alvarule/vaultify/)
 [![Todo App using Python](https://github-readme-stats.vercel.app/api/pin/?username=alvarule&repo=personal-progress-tracker&theme=react)](https://github.com/alvarule/personal-progress-tracker)
 
