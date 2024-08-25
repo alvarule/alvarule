@@ -91,7 +91,9 @@
 
 [![E-College](https://github-readme-stats.vercel.app/api/pin/?username=alvarule&repo=e-college&theme=react)](https://github.com/alvarule/e-college/)
 [![Password Manager App - Vaultify](https://github-readme-stats.vercel.app/api/pin/?username=alvarule&repo=vaultify&theme=react)](https://github.com/alvarule/vaultify/)
-[![Todo App using Python](https://github-readme-stats.vercel.app/api/pin/?username=alvarule&repo=personal-progress-tracker&theme=react)](https://github.com/alvarule/personal-progress-tracker)
+<!-- 
+[![Todo App using Python](https://github-readme-stats.vercel.app/api/pin/?username=alvarule&repo=personal-progress-tracker&theme=react)](https://github.com/alvarule/personal-progress-tracker) 
+-->
 
 
 <!-- Let's Connect Section -->
