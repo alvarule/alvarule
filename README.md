@@ -1,7 +1,7 @@
 <!-- About Section -->
 <h2 align="center">About Me</h2>
 
-- 💼 Associate Full Stack Developer at a startup, building robust and scalable software solutions
+- 💼 `Associate Full Stack Developer` at a startup, building robust and scalable software solutions
 - 🎓 Bachelor's degree in `Computer Engineering`
 - 🚀 Experienced in developing `mobile applications` in `Flutter`, `FastAPI` & `Supabase` 
 - 🌐 Earned `Microsoft Azure Fundamentals Certification`, demonstrating knowledge and skills in `cloud computing` fundamentals
