@@ -2,6 +2,8 @@
 <h2 align="center">About Me</h2>
 
 - 💼 `Associate Full Stack Developer` at a startup, building robust and scalable software solutions
+- 🤖 Growing expertise in `AI-assisted development`, with working knowledge of `LLMs`, `RAG pipelines`, `Vector Embeddings`, and `MCPs`
+- ⚙️ Practical experience in using AI coding tools like Cursor
 - 🎓 Bachelor's degree in `Computer Engineering`
 - 🚀 Experienced in developing `mobile applications` in `Flutter`, `FastAPI` & `Supabase` 
 - 🌐 Earned `Microsoft Azure Fundamentals Certification`, demonstrating knowledge and skills in `cloud computing` fundamentals
@@ -69,8 +71,8 @@
   - **IDE**:
   <p align="left">
       <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-steelblue?style=for-the-badge&logo=Visual%20studio%20code&logoColor=white"></a>
-      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-yellowgreen?style=for-the-badge&logo=android%20studio&logoColor=white"></a>
       <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm"></a>
+      <a href="#"><img alt="Cursor" src="https://img.shields.io/badge/Cursor-black?style=for-the-badge&logo=cursor&logoColor=white"></a>
   </p>
 
   <!-- Tools -->
@@ -93,6 +95,18 @@
 
 <table>
   <tr>
+    <td>
+      <a href="https://github.com/alvarule/nucleus">
+        <b>Nucleus — Advanced Password Manager</b><br/>
+        Zero-knowledge password manager for Android (Flutter + Supabase), architected by me and built with Cursor.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logo=grok&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Composer-FF6F00?style=flat-square&logoColor=white"/>
+      </a>
+    </td>
     <td valign="top">
       <a href="https://github.com/alvarule/suvyay">
         <b>Suvyay — Intelligent Expense Tracker</b><br/>
@@ -103,17 +117,17 @@
         <img src="https://img.shields.io/badge/Python-midnightblue?style=flat-square&logo=python&logoColor=white"/>
       </a>
     </td valign="top">
+  </tr>
+  <tr>
     <td>
       <a href="https://github.com/alvarule/vaultify">
         <b>Vaultify — Password Manager</b><br/>
         A secure Flutter app to store and manage passwords, bank details, and personal notes in an encrypted vault.
         <br/><br/>
-        <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-orange?style=flat-square&logo=firebase&logoColor=white"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <a href="https://github.com/alvarule/e-college">
         <b>E-College — Online Learning Platform</b><br/>
